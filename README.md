@@ -1,4 +1,5 @@
-Project Name: User Preferences Extraction in Social Networks                        
+Project Name: User Preferences Extraction in Social Networks   
+
 Purpose: To learn human preferences in social networks.              
 Results: User preferences were depicted with tweets. Personalized recommendation is possible.                           
 Description:                           
@@ -9,7 +10,7 @@ Description:
 
 Skills: R, SQL, K-means, Hierarchical clustering, R Shiny
 
-*Note: 
+*Note:     
 (1) You will need to load twitter dataset sql file into your local database first, 
     and change password as well as dbname.                           
 (2) Part of building web application (R Shiny) is omitted.                  
