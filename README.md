@@ -1,5 +1,3 @@
-This is a basic course project.
-
 Project Name: User Preferences Extraction in Social Networks                        
 Purpose: To learn human preferences in social networks.              
 Results: User preferences were depicted with tweets. Personalized recommendation is possible.                           
